@@ -27,3 +27,36 @@ h1{
     font-size: 3em;
 }
 /* /header */
+
+
+/* main */
+main{
+    width: 65%;
+    height: 200%;
+    margin: auto;
+    margin-top: 2%;
+    background-color: white;
+}
+
+button{
+    padding: 5px;
+    margin: 5px;
+}
+
+.add-task,.add-section{
+    border-radius: 5px;
+}
+
+.add-section{
+    background-color: #ffffff;
+    color: lightgray;
+    border-color: lightgray;
+}
+
+.add-task{
+    border: none;
+    background-color: #47adf1;
+
+}
+
+/* /main */
