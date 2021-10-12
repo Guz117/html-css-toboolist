@@ -12,7 +12,7 @@ body{
 /* header */
 header{
     width: 100%;
-    height: 110px;
+    height: 80px;
     background-color: white;
 }
 
@@ -32,7 +32,7 @@ h1{
 /* main */
 main{
     width: 80%;
-    height: 200%;
+    height: 100%;
     margin: auto;
     margin-top: 2%;
     background-color: white;
@@ -70,7 +70,7 @@ button{
 .lista{
     font-size: large;
     color: #545860;
-    margin-left: 20px;
+    margin-left: 15px;
 }
 
 ul{
@@ -114,7 +114,7 @@ h3{
 }
 
 ul{
-    padding-left: 30px;
+    padding-left: 1px;
 }
 
 li{
