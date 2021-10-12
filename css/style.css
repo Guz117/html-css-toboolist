@@ -56,7 +56,16 @@ button{
 .add-task{
     border: none;
     background-color: #47adf1;
+}
 
+
+
+}
+
+ul{
+    margin-left: 20px;
+    list-style-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6HHgRo5pNNF6V-mnxqd3SsOPDNgQ3to_vg&usqp=CAU'); 
+    
 }
 
 /* /main */
