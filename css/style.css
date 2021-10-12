@@ -42,7 +42,9 @@ main{
 /* button */
 button{
     padding: 5px;
-    margin: 5px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .add-task,.add-section{
@@ -68,6 +70,7 @@ button{
 .lista{
     font-size: large;
     color: #545860;
+    margin-left: 20px;
 }
 
 ul{
