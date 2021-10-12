@@ -31,13 +31,15 @@ h1{
 
 /* main */
 main{
-    width: 65%;
+    width: 80%;
     height: 200%;
     margin: auto;
     margin-top: 2%;
     background-color: white;
+    border-radius: 5px;
 }
 
+/* button */
 button{
     padding: 5px;
     margin: 5px;
@@ -45,6 +47,7 @@ button{
 
 .add-task,.add-section{
     border-radius: 5px;
+    padding: 7px;
 }
 
 .add-section{
@@ -56,16 +59,61 @@ button{
 .add-task{
     border: none;
     background-color: #47adf1;
+    color: white;
+}
+/* /button */
+
+/* list */
+
+.lista{
+    font-size: large;
+    color: #545860;
+}
+span{
+    color: white;
+    font-size: x-small;
 }
 
+.editorial,.q1,.recruiting,.mobile,.editorial,.websites,.sales{
+    background-color: #45abe9;
+    padding: 5px;
+    border-radius: 5px;
+}
 
-
+h3{
+    padding: 1em 0;
 }
 
 ul{
-    margin-left: 20px;
-    list-style-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6HHgRo5pNNF6V-mnxqd3SsOPDNgQ3to_vg&usqp=CAU'); 
-    
+    padding-left: 30px;
 }
+
+li{
+    padding: 8px 0;
+}
+
+.q1{
+    background-color: #9c72e4;
+}
+
+.recruiting{
+    background-color: #67c1ab;
+}
+
+.mobile{
+    background-color: #f4ab4f;
+}
+.websites{
+    background-color: #d863a1;
+}
+
+.sales{
+    background-color: #b0c927;
+}
+/* /list */
+
+
+
+
 
 /* /main */
